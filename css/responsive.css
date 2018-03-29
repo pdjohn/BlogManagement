@@ -1,0 +1,552 @@
+ @media (min-width: 275px) and (max-width: 767px) {
+     /*CSS FOR INDEX PAGE START*/
+     .logo img {
+         max-height: 30px;
+         margin: 0 auto;
+         margin-top: 30px;
+     }
+     .header-add {
+         height: 80px;
+         width: 100%;
+     }
+     .header-add p {
+         font-size: 20px;
+     }
+     .navbar-default .navbar-nav>li>a {
+         padding: 10px 30px;
+         font-size: 14px;
+     }
+     .navbar-right {
+         padding: 0 28px;
+     }
+     .featured-blog img {
+         margin-bottom: 30px;
+     }
+     .feature-post-text h5 {
+         margin-bottom: 30px;
+     }
+     .blog-post img {
+         margin: 0 auto;
+     }
+     .blog-post h4 {
+         font-size: 16px;
+     }
+     .blog-post-author {
+         font-size: 11px;
+     }
+     .blog-post-date {
+         font-size: 11px;
+     }
+     .blog-post .btn {
+         font-size: 14px;
+     }
+     .sidebar-add p {
+         font-size: 24px;
+     }
+     .add p {
+         width: 100%;
+         font-size: 20px;
+     }
+     #blog-posts {
+         padding-bottom: 50px;
+     }
+     .post-of-week-text p {
+         height: 70px;
+         padding: 25px 0;
+         font-size: 16px;
+     }
+     .footer-content h4 {
+         margin-bottom: 30px;
+     }
+     .sidebar-carousal .carousel-control {
+         top: 50%;
+     }
+     /*END OF CSS FOR INDEX PAGE*/
+     /*CSS FOR INDEX V2 PAGE START*/
+     /*END OF CSS FOR INDEX V2 PAGE*/
+ }
+ /*end of max-width 767px*/
+ 
+ @media (min-width: 275px) and (max-width: 320px) {
+     /*CSS FOR INDEX PAGE START*/
+     .feature-post-contents {
+         display: none;
+     }
+     .social-links i {
+         height: 50px;
+         width: 50px;
+         font-size: 24px;
+         line-height: 50px;
+     }
+     .instagram-images img {
+         width: 96px;
+     }
+     .sidebar-add-2 p {
+         width: 100%;
+         font-size: 20px;
+     }
+     /*END OF CSS FOR INDEX PAGE */
+     /*CSS FOR INDEX V2 PAGE START*/
+     .carousel-v2 .carousel-caption h2 {
+         font-size: 16px;
+         margin-bottom: 15px;
+     }
+     .add-v2 {
+         width: 100%;
+         margin: 50px auto;
+     }
+     .add-v2-content p {
+         font-size: 24px;
+     }
+     h4.all-post-heading {
+         margin-bottom: 25px;
+     }
+     .single-post-text h4 {
+         font-size: 16px;
+     }
+     .single-post:last-child {
+         margin-bottom: 50px;
+     }
+     .all-post-pagination {
+         padding-bottom: 50px;
+     }
+     .all-post-pagination .pagination > li > a,
+     .pagination > li > span {
+         padding: 10px 15px;
+         font-size: 14px;
+     }
+     /*END OF CSS FOR INDEX V2 PAGE*/
+     /*CSS FOR BLOG-DETAIL PAGE START*/
+     .blog-details-post-date {
+         width: 80PX;
+         height: 60PX;
+         font-size: 18px;
+         padding: 15px;
+         line-height: 14px;
+         margin-top: -33px;
+     }
+     .blog-details-post-date span {
+         font-size: 12px;
+     }
+     .blog-details-post-heading h3 {
+         margin-top: 40px;
+         margin-bottom: 15px;
+         font-size: 18px;
+     }
+     .blog-details-author-tag {
+         font-size: 14px;
+     }
+     .blog-details-author-tag .list-inline > li {
+         padding-right: 20px;
+     }
+     .blog-details-author-tag ul {
+         margin-bottom: 15px;
+     }
+     .blog-details-text p {
+         font-size: 14px;
+     }
+     .blog-details-text p:last-child {
+         margin-bottom: 30px;
+     }
+     .blog-details-author {
+         padding: 25px;
+     }
+     .blog-details-author img {
+         height: 50px;
+     }
+     .blog-details-author h4.media-heading {
+         font-size: 16px;
+     }
+     .blog-details-author .media-body {
+         font-size: 14px;
+     }
+     .blog-details-comment-heading h4 {
+         font-size: 18px;
+         padding-top: 30px;
+         margin-bottom: 25px;
+     }
+     .blog-detail-comments .media-body {
+         font-size: 14px;
+     }
+     /*END OF CSS FOR BLOG-DETAIL PAGE*/
+ }
+ /*end of max-width 320px*/
+ 
+ @media (min-width: 321px) and (max-width: 480px) {
+     /*CSS FOR INDEX PAGE START*/
+     .featured-blog img {
+         width: 100%;
+     }
+     .featured-blog-text {
+         padding: 150px 30px;
+     }
+     .blog-post img {
+         width: 100%;
+     }
+     .blog-post h4 {
+         margin-top: 15px;
+     }
+     .sidebar-carousal img {
+         width: 100%;
+     }
+     .post-of-week-contents img {
+         width: 100%;
+     }
+     /*END OF CSS FOR INDEX PAGE */
+     .carousel-v2 .carousel-caption h2 {
+         font-size: 24px;
+         margin-bottom: 15px;
+     }
+     .add-v2 {
+         width: 100%;
+         margin: 50px auto;
+     }
+     .add-v2-content p {
+         font-size: 24px;
+     }
+     h4.all-post-heading {
+         margin-bottom: 25px;
+     }
+     .single-post-text h4 {
+         font-size: 16px;
+     }
+     .single-post:last-child {
+         margin-bottom: 50px;
+     }
+     .all-post-pagination {
+         padding-bottom: 50px;
+     }
+     .all-post-pagination .pagination > li > a,
+     .pagination > li > span {
+         padding: 10px 15px;
+         font-size: 14px;
+     }
+     /*END OF CSS FOR INDEX V2 PAGE*/
+     /*CSS FOR BLOG-DETAIL PAGE START*/
+     .blog-details-post-date {
+         width: 80PX;
+         height: 60PX;
+         font-size: 18px;
+         padding: 15px;
+         line-height: 14px;
+         margin-top: -33px;
+     }
+     .blog-details-post-date span {
+         font-size: 12px;
+     }
+     .blog-details-post-heading h3 {
+         margin-top: 40px;
+         margin-bottom: 15px;
+         font-size: 18px;
+     }
+     .blog-details-author-tag {
+         font-size: 14px;
+     }
+     .blog-details-author-tag .list-inline > li {
+         padding-right: 20px;
+     }
+     .blog-details-author-tag ul {
+         margin-bottom: 15px;
+     }
+     .blog-details-text p {
+         font-size: 14px;
+     }
+     .blog-details-text p:last-child {
+         margin-bottom: 30px;
+     }
+     .blog-details-author {
+         padding: 25px;
+     }
+     .blog-details-author img {
+         height: 50px;
+     }
+     .blog-details-author h4.media-heading {
+         font-size: 16px;
+     }
+     .blog-details-author .media-body {
+         font-size: 14px;
+     }
+     .blog-details-comment-heading h4 {
+         font-size: 18px;
+         padding-top: 30px;
+         margin-bottom: 25px;
+     }
+     .blog-detail-comments .media-body {
+         font-size: 14px;
+     }
+     /*END OF CSS FOR BLOG-DETAIL PAGE*/
+ }
+ /*end of max-width 480px*/
+ 
+ @media (min-width: 481px) and (max-width: 640px) {
+     /*CSS FOR INDEX PAGE START*/
+     .featured-blog img {
+         width: 100%;
+     }
+     .featured-blog-text {
+         padding: 250px 30px;
+     }
+     .blog-post img {
+         width: 100%;
+     }
+     .blog-post h4 {
+         margin-top: 15px;
+     }
+     .sidebar-carousal img {
+         width: 100%;
+     }
+     .post-of-week-contents img {
+         width: 100%;
+     }
+     .instagram-images img {
+         width: 153px;
+     }
+     /*END OF CSS FOR INDEX PAGE */
+     /*CSS FOR INDEX V2 PAGE START*/
+     .carousel-v2 .carousel-caption h2 {
+         font-size: 36px;
+     }
+     .add-v2 {
+         width: 100%;
+         margin: 50px auto;
+     }
+     .single-post img {
+         width: 100%;
+     }
+     .single-post:last-child {
+         margin-bottom: 50px;
+     }
+     .all-post-pagination {
+         padding-bottom: 50px;
+     }
+     .all-post-pagination .pagination > li > a,
+     .pagination > li > span {
+         padding: 10px 15px;
+         font-size: 14px;
+     }
+     /*END OF CSS FOR INDEX V2 PAGE*/
+     /*CSS FOR BLOG-DETAIL PAGE START*/
+     .blog-details-post-date {
+         font-size: 28px;
+     }
+     .blog-details-post-date span {
+         font-size: 18px;
+     }
+     .blog-details-post-heading h3 {
+         margin-top: 20px;
+         margin-bottom: 20px;
+         font-size: 22px;
+     }
+     .blog-details-author-tag {
+         font-size: 14px;
+     }
+     .blog-details-author-tag .list-inline > li {
+         padding-right: 30px;
+     }
+     .blog-details-author-tag ul {
+         margin-bottom: 20px;
+     }
+     /*END OF CSS FOR BLOG-DETAIL PAGE*/
+ }
+ /*end of max-width 640px*/
+ 
+ @media (min-width: 641px) and (max-width: 767px) {
+     /*CSS FOR INDEX PAGE START*/
+     .featured-blog img {
+         width: 100%;
+     }
+     .featured-blog-text {
+         padding: 250px 30px;
+     }
+     .blog-post img {
+         width: 100%;
+     }
+     .blog-post h4 {
+         margin-top: 15px;
+     }
+     .sidebar-carousal img {
+         width: 100%;
+     }
+     .sidebar-add-2 p {
+         font-size: 24px;
+     }
+     .post-of-week-contents img {
+         width: 100%;
+     }
+     .instagram-images img {
+         width: 185px;
+     }
+     /*END OF CSS FOR INDEX PAGE */
+     /*CSS FOR INDEX V2 PAGE START*/
+     .carousel-v2 .carousel-caption h2 {
+         font-size: 36px;
+     }
+     .add-v2 {
+         width: 100%;
+         margin: 50px auto;
+     }
+     .single-post img {
+         width: 100%;
+     }
+     .single-post:last-child {
+         margin-bottom: 50px;
+     }
+     .all-post-pagination {
+         padding-bottom: 50px;
+     }
+     .all-post-pagination .pagination > li > a,
+     .pagination > li > span {
+         padding: 10px 15px;
+         font-size: 14px;
+     }
+     /*END OF CSS FOR INDEX V2 PAGE*/
+     /*CSS FOR BLOG-DETAIL PAGE START*/
+     .blog-details-post-date {
+         font-size: 28px;
+     }
+     .blog-details-post-date span {
+         font-size: 18px;
+     }
+     .blog-details-post-heading h3 {
+         margin-top: 20px;
+         margin-bottom: 20px;
+         font-size: 22px;
+     }
+     .blog-details-author-tag {
+         font-size: 14px;
+     }
+     .blog-details-author-tag .list-inline > li {
+         padding-right: 30px;
+     }
+     .blog-details-author-tag ul {
+         margin-bottom: 20px;
+     }
+     /*END OF CSS FOR BLOG-DETAIL PAGE*/
+ }
+ /*end of max-width 767px*/
+ 
+ @media (min-width: 768px) and (max-width: 991px) {
+     /*CSS FOR INDEX PAGE START*/
+     .featured-blog img {
+         width: 100%;
+     }
+     .featured-blog-text {
+         padding: 250px 30px;
+     }
+     .blog-post img {
+         width: 100%;
+     }
+     .blog-post h4 {
+         margin-top: 15px;
+     }
+     .sidebar-carousal img {
+         width: 100%;
+     }
+     .post-of-week-contents img {
+         width: 100%;
+     }
+     .instagram-images img {
+         width: 185px;
+     }
+     .header-add {
+         width: 100%;
+     }
+     .logo img {
+         height: 28px;
+     }
+     .navbar-default .navbar-nav>li>a {
+         font-size: 12px;
+     }
+     .featured-blog img {
+         margin-bottom: 30px;
+     }
+     .sidebar-carousal .carousel-control {
+         top: 50%;
+     }
+     .add p {
+         width: 100%;
+     }
+     /*END OF CSS FOR INDEX PAGE */
+     /*CSS FOR INDEX V2 PAGE START*/
+     .carousel-v2 .carousel-caption h2 {
+         font-size: 36px;
+     }
+     .single-post img {
+         width: 100%;
+     }
+     .single-post:last-child {
+         margin-bottom: 50px;
+     }
+     .all-post-pagination {
+         padding-bottom: 50px;
+     }
+     .all-post-pagination .pagination > li > a,
+     .pagination > li > span {
+         padding: 10px 15px;
+         font-size: 14px;
+     }
+     /*END OF CSS FOR INDEX V2 PAGE*/
+ }
+ /*end of max-width 991px*/
+ 
+ @media (min-width: 992px) and (max-width: 1199px) {
+     /*CSS FOR INDEX PAGE START*/
+     .header-add {
+         width: 100%;
+     }
+     .navbar-default .navbar-nav>li>a {
+         font-size: 14px;
+     }
+     .logo img {
+         height: 30px;
+     }
+     .social-links i {
+         width: 54px;
+         height: 54px;
+         font-size: 24px;
+         line-height: 54px;
+     }
+     .instagram-images img {
+         width: 97px;
+     }
+     .sidebar-carousal .carousel-control {
+         top: 35%;
+     }
+     .add p {
+         font-size: 30px;
+     }
+     .footer-logo img {
+         padding: 25px 50px;
+         height: 72px;
+     }
+     /*END OF CSS FOR INDEX PAGE*/
+     /*CSS FOR INDEX V2 PAGE START*/
+     .carousel-v2 .carousel-caption h2 {
+         font-size: 36px;
+     }
+     .single-post:last-child {
+         margin-bottom: 50px;
+     }
+     .all-post-pagination {
+         padding-bottom: 50px;
+     }
+     .all-post-pagination .pagination > li > a,
+     .pagination > li > span {
+         padding: 10px 15px;
+         font-size: 14px;
+     }
+     .single-post img {
+         height: 315px;
+     }
+     .single-post-text h4 {
+         margin-top: 10px;
+         margin-bottom: 15px;
+         font-size: 16px;
+     }
+     /*END OF CSS FOR INDEX V2 PAGE*/
+ }
+ /*end of max-width 1199px*/
+ 
+ @media (min-width: 1200px) and (max-width: 1980px) {}
+ /*end of max-width 1980px*/
+ /*++++++++++END OF RESPONSIVE CSS++++++++++*/
